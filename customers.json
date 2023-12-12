@@ -1,0 +1,8 @@
+
+[
+    { "id": 1, "first_name": "Aman", "last_name": "Gupta", "city": "Ahmedabad", "company": "SublimeDataSystems" },
+    { "id": 2, "first_name": "Samad", "last_name": "Shaik", "city": "Nellore", "company": "WinItSoftware" },
+    { "id": 3, "first_name": "Shamir", "last_name": "Shaik", "city": "Hyderabad", "company": "Jayeeshah" },
+    { "id": 4, "first_name": "Shamir", "last_name": "Shaik", "city": "Hyderabad", "company": "Jayeeshah" }
+
+]
